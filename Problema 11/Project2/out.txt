@@ -1,0 +1,4 @@
+Reuniunea este: 1 2 3 4 5 
+Intersectia este: 3 4 
+Differenta (A, B) este: 5 
+Differenta (B, A) este: 1 2 
